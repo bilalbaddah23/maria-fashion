@@ -1,0 +1,419 @@
+{
+  "brand": "Maria Fashion",
+  "handle": "maria_fash",
+  "instagram": "https://www.instagram.com/maria_fash/",
+  "contactMode": "whatsapp",
+  "phone": "96170399154",
+  "displayPhone": "+961 70 399 154",
+  "hours": "Confirm with the shop",
+  "followersObserved": 36677,
+  "followersDisplay": "36.6K",
+  "latestVisiblePost": "2026-11-16",
+  "researchDate": "2026-11-16",
+  "profileBio": "🌸Online Store🧵\n🌸DeliveryTo your Place 🚗\n🌸Exchange 48 hours🔛\n🌸No refund/cancellation🚫\n🌸For more info talk DM📩/WhatsApp us\n+961 70399154📲",
+  "bioLinks": [],
+  "branches": [],
+  "about": "Maria Fashion is a Lebanese online clothing shop whose public Instagram biography lists delivery, exchange within 48 hours and a direct WhatsApp order number. The public collection includes coordinated outfits, knitwear, coats and styling accessories. Confirm current stock, measurements and final order terms directly with the team.",
+  "heroImage": "C:\\Projects\\prospect-research\\nov16-five-new\\maria-fashion\\assets\\maria-carousel-01.jpg",
+  "storyImage": "C:\\Projects\\prospect-research\\nov16-five-new\\maria-fashion\\assets\\maria-11.jpg",
+  "galleryImages": [
+    "C:\\Projects\\prospect-research\\nov16-five-new\\maria-fashion\\assets\\maria-02.jpg",
+    "C:\\Projects\\prospect-research\\nov16-five-new\\maria-fashion\\assets\\maria-03.jpg",
+    "C:\\Projects\\prospect-research\\nov16-five-new\\maria-fashion\\assets\\maria-carousel-02.jpg",
+    "C:\\Projects\\prospect-research\\nov16-five-new\\maria-fashion\\assets\\maria-04.jpg",
+    "C:\\Projects\\prospect-research\\nov16-five-new\\maria-fashion\\assets\\maria-05.jpg",
+    "C:\\Projects\\prospect-research\\nov16-five-new\\maria-fashion\\assets\\maria-06.jpg",
+    "C:\\Projects\\prospect-research\\nov16-five-new\\maria-fashion\\assets\\maria-07.jpg",
+    "C:\\Projects\\prospect-research\\nov16-five-new\\maria-fashion\\assets\\maria-08.jpg",
+    "C:\\Projects\\prospect-research\\nov16-five-new\\maria-fashion\\assets\\maria-10.jpg",
+    "C:\\Projects\\prospect-research\\nov16-five-new\\maria-fashion\\assets\\maria-11.jpg",
+    "C:\\Projects\\prospect-research\\nov16-five-new\\maria-fashion\\assets\\maria-12.jpg"
+  ],
+  "products": [
+    {
+      "id": "zip-front-coordinated-edit",
+      "name": "Zip-Front Coordinated Edit",
+      "category": "Coordinated looks",
+      "description": "Relaxed zip-front top and matching wide-leg trousers shown in olive with front and back photographs, alongside a brown coordinated styling presentation. Ask the team to identify your preferred pictured style and confirm current price, measurements, colours and availability. Styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov16-five-new\\maria-fashion\\assets\\maria-03.jpg",
+        "C:\\Projects\\prospect-research\\nov16-five-new\\maria-fashion\\assets\\maria-carousel-02.jpg",
+        "C:\\Projects\\prospect-research\\nov16-five-new\\maria-fashion\\assets\\maria-08.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/maria_fash/p/DfzSoG-CL4i/",
+      "sourcePosts": [
+        "https://www.instagram.com/maria_fash/p/DfzSoG-CL4i/",
+        "https://www.instagram.com/maria_fash/reel/DfxunmnI-NB/",
+        "https://www.instagram.com/bella_fash.lb/p/Dfw6AfEgAe7/"
+      ],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "sizeConfirm": true
+    },
+    {
+      "id": "brown-hooded-set",
+      "name": "Brown Hooded Set",
+      "category": "Coordinated looks",
+      "description": "A brown hooded zip-front top is shown with matching relaxed trousers in a public Reel cover. Confirm current availability, price, measurements and sizing with Maria Fashion. Styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov16-five-new\\maria-fashion\\assets\\maria-04.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/maria_fash/reel/DfxunmnI-NB/",
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "sizeConfirm": true
+    },
+    {
+      "id": "burgundy-knit-skirt-set",
+      "name": "Burgundy Knit Skirt Set",
+      "category": "Knitwear",
+      "description": "A burgundy button-neck knit top with a matching long skirt, photographed together on hangers. Confirm current availability, price, measurements, sizes and the exact pictured pieces with Maria Fashion. Styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov16-five-new\\maria-fashion\\assets\\maria-05.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/maria_fash/p/Dfxtv6miOMi/",
+      "sourcePosts": [
+        "https://www.instagram.com/maria_fash/p/Dfxtv6miOMi/"
+      ],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "sizeConfirm": true
+    },
+    {
+      "id": "contrast-longline-coat",
+      "name": "Contrast Longline Coat",
+      "category": "Outerwear",
+      "description": "A black longline coat with a contrasting pale collar, front panel and pocket details. This reference comes from an older public post, so current availability needs confirmation. Confirm current availability, price, measurements, sizes and the exact pictured pieces with Maria Fashion. Styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov16-five-new\\maria-fashion\\assets\\maria-02.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/maria_fash/reel/C4ijB4dM5rM/",
+      "sourcePosts": [
+        "https://www.instagram.com/maria_fash/reel/C4ijB4dM5rM/"
+      ],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "sizeConfirm": true
+    },
+    {
+      "id": "tall-boots-edit",
+      "name": "Tall Boots Edit",
+      "category": "Shoes & accessories",
+      "description": "Two tall black boot styles shown by the page: a chunky-soled pair and a buckle-detail riding-style pair. Choose your reference photograph when enquiring; the photographed bag is styling only unless the team confirms otherwise. Confirm current availability, price, measurements, sizes and the exact pictured pieces with Maria Fashion. Styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov16-five-new\\maria-fashion\\assets\\maria-06.jpg",
+        "C:\\Projects\\prospect-research\\nov16-five-new\\maria-fashion\\assets\\maria-07.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/bella_fash.lb/reel/Dfw7mLJAg5g/",
+      "sourcePosts": [
+        "https://www.instagram.com/bella_fash.lb/reel/Dfw7mLJAg5g/",
+        "https://www.instagram.com/bella_fash.lb/p/Dfw6jUhAJZV/"
+      ],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "sizeConfirm": true
+    },
+    {
+      "id": "red-layering-mood",
+      "name": "Red Layering Mood",
+      "category": "Styling inspiration",
+      "description": "A red jacket is shown in a coordinated styling board with a cream high-neck top, dark skirt and accessories. The image is styling inspiration rather than a promise that every pictured item is supplied as a set. Confirm current availability, price, measurements, sizes and the exact pictured pieces with Maria Fashion. Styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov16-five-new\\maria-fashion\\assets\\maria-10.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/bella_fash.lb/p/DfwjfZ8ABk2/",
+      "sourcePosts": [
+        "https://www.instagram.com/bella_fash.lb/p/DfwjfZ8ABk2/"
+      ],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "sizeConfirm": true
+    },
+    {
+      "id": "burgundy-layered-coat",
+      "name": "Burgundy Layered Coat",
+      "category": "Outerwear",
+      "description": "A burgundy textured outer layer over a dark outfit, shown in an outdoor styling photograph. Confirm current availability, price, measurements, sizes and the exact pictured pieces with Maria Fashion. Styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov16-five-new\\maria-fashion\\assets\\maria-11.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/bella_fash.lb/p/DfwhhyRgJVo/",
+      "sourcePosts": [
+        "https://www.instagram.com/bella_fash.lb/p/DfwhhyRgJVo/"
+      ],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "sizeConfirm": true
+    },
+    {
+      "id": "long-knit-dress-edit",
+      "name": "Long Knit Dress Edit",
+      "category": "Knitwear",
+      "description": "Long-sleeved knit dresses shown on hangers in taupe and bright red. Ask the team about the pictured colour and fit. Confirm current availability, price, measurements, sizes and the exact pictured pieces with Maria Fashion. Styling accessories are not automatically included.",
+      "images": [
+        "C:\\Projects\\prospect-research\\nov16-five-new\\maria-fashion\\assets\\maria-12.jpg"
+      ],
+      "sourcePost": "https://www.instagram.com/bella_fash.lb/reel/DfwhT72gLwS/",
+      "sourcePosts": [
+        "https://www.instagram.com/bella_fash.lb/reel/DfwhT72gLwS/"
+      ],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "sizeConfirm": true
+    }
+  ],
+  "websiteScreening": {
+    "observedDate": "2026-11-16",
+    "primaryProfileReviewed": true,
+    "allBioLinksReviewed": true,
+    "result": "No matching official website found in the complete root-reviewed primary profile bio and bounded exact-handle/name/contact searches. An unlisted website cannot be ruled out.",
+    "queries": [
+      "\"maria_fash\" website",
+      "\"maria_fash\" \"website\" clothing",
+      "\"Maria Fashion\" \"70399154\"",
+      "\"96170399154\" shop"
+    ],
+    "bioLinkReview": "Root inspected the complete public bio in the rendered Instagram profile. No external bio website or Maps link was visible.",
+    "independentlyConfirmedContact": "+961 70399154",
+    "contactEvidence": "The root-reviewed complete primary public Instagram biography explicitly says WhatsApp us +961 70399154. No country-prefix inference was needed.",
+    "limitations": "No owner contact was made; an unlisted website cannot be ruled out."
+  },
+  "activityEvidence": [
+    {
+      "source": "https://www.instagram.com/maria_fash/p/DfzSoG-CL4i/",
+      "date": "2026-11-16",
+      "observation": "Root opened the public two-slide true-photo carousel, whose rendered caption says New Arrivals and 7hoursago. Child downloaded only images anchored to this exact post, at native831x1107 and960x1279. Dates in both imagealttexts state November16,2026."
+    },
+    {
+      "source": "https://www.instagram.com/maria_fash/p/DfzSoG-CL4i/",
+      "date": "2026-11-16",
+      "observation": "Primary rendered image alt in the root-exported profile says Photo by Maria Fashion on November 16, 2026. The precise post timestamp is not claimed from the profile grid."
+    },
+    {
+      "source": "https://www.instagram.com/maria_fash/p/Dfxtv6miOMi/",
+      "date": "2026-11-15",
+      "observation": "Primary rendered public photo alt states November 15, 2026."
+    }
+  ],
+  "restrictions": [
+    "Selected11 unique public-source stills, including2 native-resolution November16 photo-carousel slides, from Maria Fashion’s rendered public profile. Some posts are authored by bella_fash.lb and were displayed on Maria Fashion’s official profile; root reports them as coauthored posts.",
+    "Seven selected public photo/poster stills plus four native Reel-cover stills; no videos downloaded and no video frames extracted. Exact source kind is in imageObservations.",
+    "Image02 is from a March15,2024 pinned post; current stock is not implied. January2025 packing-bags cover01 was excluded as non-product imagery. Logo-shoe closeup09 excluded.",
+    "Styling collage08 is grouped with coordinated looks rather than padded into a separate product. Collage10 is explicitly labelled Styling inspiration, with no claim that all pictured garments or accessories are included.",
+    "Photo and garment origins, brand authenticity, materials and rights are not independently established. Final owner review is required before commercial launch.",
+    "All catalogue prices are null. No stock, prices, materials, exact sizes, delivery fees or physical branch/hours invented.",
+    "Two native-resolution carousel photos are831x1107 and960x1279; remaining grid sources are360–521px wide by640px high. The lower-resolution thumbnail duplicate of the first carousel slide is excluded. No images were upscaled."
+  ],
+  "imageObservations": [
+    {
+      "file": "C:\\Projects\\prospect-research\\nov16-five-new\\maria-fashion\\assets\\maria-02.jpg",
+      "sourcePost": "https://www.instagram.com/maria_fash/reel/C4ijB4dM5rM/",
+      "alt": "Video by Maria Fashion on March 15, 2024.",
+      "dimensions": [
+        360,
+        640
+      ],
+      "sha256": "c7ff7360edb320fd06831c39634bd34bc86b4c767aa12371bbbc417e215a7fbd",
+      "kind": "native Reel-cover still",
+      "included": true
+    },
+    {
+      "file": "C:\\Projects\\prospect-research\\nov16-five-new\\maria-fashion\\assets\\maria-03.jpg",
+      "sourcePost": "https://www.instagram.com/maria_fash/p/DfzSoG-CL4i/",
+      "alt": "Photo by Maria Fashion on November 16, 2026.",
+      "dimensions": [
+        480,
+        640
+      ],
+      "sha256": "13d922510219e272093bfc5ecc601837ff3f73ce5d268304cba794714e040113",
+      "kind": "public photo/carousel grid still",
+      "included": true
+    },
+    {
+      "file": "C:\\Projects\\prospect-research\\nov16-five-new\\maria-fashion\\assets\\maria-04.jpg",
+      "sourcePost": "https://www.instagram.com/maria_fash/reel/DfxunmnI-NB/",
+      "alt": "Video by Maria Fashion on November 15, 2026. May be an image of coat, turtleneck, top, sweatsuit and text.",
+      "dimensions": [
+        360,
+        640
+      ],
+      "sha256": "ceca11c16881eeb54bd2b92a17fccef369ff0f0bfbf9034ed176d661bbde651c",
+      "kind": "native Reel-cover still",
+      "included": true
+    },
+    {
+      "file": "C:\\Projects\\prospect-research\\nov16-five-new\\maria-fashion\\assets\\maria-05.jpg",
+      "sourcePost": "https://www.instagram.com/maria_fash/p/Dfxtv6miOMi/",
+      "alt": "Photo by Maria Fashion on November 15, 2026.",
+      "dimensions": [
+        480,
+        640
+      ],
+      "sha256": "109496c9a643819070cd2f8b3ca5bf5e6ff0f1e8f79207728a90bddb74731966",
+      "kind": "public photo/carousel grid still",
+      "included": true
+    },
+    {
+      "file": "C:\\Projects\\prospect-research\\nov16-five-new\\maria-fashion\\assets\\maria-06.jpg",
+      "sourcePost": "https://www.instagram.com/bella_fash.lb/reel/Dfw7mLJAg5g/",
+      "alt": "Video by Bella fashion on November 15, 2026. May be an image of fishnet stockings, boots, turtleneck, tights and text.",
+      "dimensions": [
+        360,
+        640
+      ],
+      "sha256": "973a37c14c096e8c654489c8cadfe63a94f79b56d3e89dc9a9059170cc649070",
+      "kind": "native Reel-cover still",
+      "included": true
+    },
+    {
+      "file": "C:\\Projects\\prospect-research\\nov16-five-new\\maria-fashion\\assets\\maria-07.jpg",
+      "sourcePost": "https://www.instagram.com/bella_fash.lb/p/Dfw6jUhAJZV/",
+      "alt": "Photo by Bella fashion on November 15, 2026.",
+      "dimensions": [
+        516,
+        640
+      ],
+      "sha256": "35a5347afb2d30390cb6b661c36cfcbe30a30eaaf925afc36f8e1177ae52d8c7",
+      "kind": "public photo/carousel grid still",
+      "included": true
+    },
+    {
+      "file": "C:\\Projects\\prospect-research\\nov16-five-new\\maria-fashion\\assets\\maria-08.jpg",
+      "sourcePost": "https://www.instagram.com/bella_fash.lb/p/Dfw6AfEgAe7/",
+      "alt": "Photo by Bella fashion on November 15, 2026.",
+      "dimensions": [
+        521,
+        640
+      ],
+      "sha256": "33fd33b4ab9b1f7fd79baefd717a355386d3c733c307d71679c3a711acc78bf8",
+      "kind": "public photo/carousel grid still",
+      "included": true
+    },
+    {
+      "file": "C:\\Projects\\prospect-research\\nov16-five-new\\maria-fashion\\assets\\maria-10.jpg",
+      "sourcePost": "https://www.instagram.com/bella_fash.lb/p/DfwjfZ8ABk2/",
+      "alt": "Photo by Bella fashion on November 15, 2026.",
+      "dimensions": [
+        480,
+        640
+      ],
+      "sha256": "3c16c207d6411268a8b02fbea7b3bccde2587a23afd3505a42ec216ba5efca04",
+      "kind": "public photo/carousel grid still",
+      "included": true
+    },
+    {
+      "file": "C:\\Projects\\prospect-research\\nov16-five-new\\maria-fashion\\assets\\maria-11.jpg",
+      "sourcePost": "https://www.instagram.com/bella_fash.lb/p/DfwhhyRgJVo/",
+      "alt": "Photo by Bella fashion on November 15, 2026.",
+      "dimensions": [
+        480,
+        640
+      ],
+      "sha256": "0335f46f4dafafef670dcfd96cdd9f62594453c27fe030102d75952f3356e330",
+      "kind": "public photo/carousel grid still",
+      "included": true
+    },
+    {
+      "file": "C:\\Projects\\prospect-research\\nov16-five-new\\maria-fashion\\assets\\maria-12.jpg",
+      "sourcePost": "https://www.instagram.com/bella_fash.lb/reel/DfwhT72gLwS/",
+      "alt": "Video by Bella fashion on November 15, 2026. May be an image of overcoat, suit, clothes hanger, wool and text.",
+      "dimensions": [
+        360,
+        640
+      ],
+      "sha256": "11fb880800ea22d7527032fe1f1ab2e9e87402865bb69c039cff761ee8b87a75",
+      "kind": "native Reel-cover still",
+      "included": true
+    },
+    {
+      "file": "C:\\Projects\\prospect-research\\nov16-five-new\\maria-fashion\\assets\\maria-carousel-01.jpg",
+      "sourcePost": "https://www.instagram.com/maria_fash/p/DfzSoG-CL4i/",
+      "alt": "Photo by Maria Fashion on November 16, 2026. May be an image of top, dress, jumpsuit and text.",
+      "dimensions": [
+        831,
+        1107
+      ],
+      "sha256": "61e8a3f87eccd3b814c952f976f86fc145629ed26e00b895daae89f368a16c69",
+      "kind": "native-resolution true photo carousel slide",
+      "included": true
+    },
+    {
+      "file": "C:\\Projects\\prospect-research\\nov16-five-new\\maria-fashion\\assets\\maria-carousel-02.jpg",
+      "sourcePost": "https://www.instagram.com/maria_fash/p/DfzSoG-CL4i/",
+      "alt": "Photo by Maria Fashion on November 16, 2026. May be an image of fleece, sweatpants, sweatsuit, jumpsuit, drawstring and text.",
+      "dimensions": [
+        960,
+        1279
+      ],
+      "sha256": "ef0d8b48ec11eb135e044f47f66eab471254e7fdaae729adce7510bd48396ebc",
+      "kind": "native-resolution true photo carousel slide",
+      "included": true
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://www.instagram.com/maria_fash/",
+      "kind": "Root-reviewed primary public profile, full bio, follower count and image-bearing post anchors"
+    },
+    {
+      "url": "https://starngage.com/plus/en-us/influencer/ranking/instagram/lebanon/lifestyle",
+      "kind": "Secondary discovery count only; current direct primary count preferred"
+    },
+    {
+      "url": "https://www.instagram.com/maria_fash/reel/C4ijB4dM5rM/",
+      "kind": "Primary public post displayed on Maria Fashion profile"
+    },
+    {
+      "url": "https://www.instagram.com/maria_fash/p/DfzSoG-CL4i/",
+      "kind": "Primary public post displayed on Maria Fashion profile"
+    },
+    {
+      "url": "https://www.instagram.com/maria_fash/reel/DfxunmnI-NB/",
+      "kind": "Primary public post displayed on Maria Fashion profile"
+    },
+    {
+      "url": "https://www.instagram.com/maria_fash/p/Dfxtv6miOMi/",
+      "kind": "Primary public post displayed on Maria Fashion profile"
+    },
+    {
+      "url": "https://www.instagram.com/bella_fash.lb/reel/Dfw7mLJAg5g/",
+      "kind": "Primary public post displayed on Maria Fashion profile"
+    },
+    {
+      "url": "https://www.instagram.com/bella_fash.lb/p/Dfw6jUhAJZV/",
+      "kind": "Primary public post displayed on Maria Fashion profile"
+    },
+    {
+      "url": "https://www.instagram.com/bella_fash.lb/p/Dfw6AfEgAe7/",
+      "kind": "Primary public post displayed on Maria Fashion profile"
+    },
+    {
+      "url": "https://www.instagram.com/bella_fash.lb/p/DfwjfZ8ABk2/",
+      "kind": "Primary public post displayed on Maria Fashion profile"
+    },
+    {
+      "url": "https://www.instagram.com/bella_fash.lb/p/DfwhhyRgJVo/",
+      "kind": "Primary public post displayed on Maria Fashion profile"
+    },
+    {
+      "url": "https://www.instagram.com/bella_fash.lb/reel/DfwhT72gLwS/",
+      "kind": "Primary public post displayed on Maria Fashion profile"
+    }
+  ]
+}

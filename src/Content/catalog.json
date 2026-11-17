@@ -1,0 +1,166 @@
+{
+  "brand": "Maria Fashion",
+  "contactMode": "whatsapp",
+  "phone": "96170399154",
+  "displayPhone": "+961 70 399 154",
+  "instagram": "https://www.instagram.com/maria_fash/",
+  "hours": "Confirm with the shop",
+  "hero": "/images/collection-12.jpg",
+  "story": "/images/collection-10.jpg",
+  "galleryImages": [
+    "/images/collection-06.jpg",
+    "/images/collection-01.jpg",
+    "/images/collection-02.jpg",
+    "/images/collection-04.jpg",
+    "/images/collection-05.jpg",
+    "/images/collection-07.jpg",
+    "/images/collection-08.jpg",
+    "/images/collection-03.jpg",
+    "/images/collection-09.jpg",
+    "/images/collection-10.jpg",
+    "/images/collection-11.jpg"
+  ],
+  "products": [
+    {
+      "id": "zip-front-coordinated-edit",
+      "name": "Zip-Front Coordinated Edit",
+      "collection": "Coordinated looks",
+      "audience": "The edit",
+      "family": "",
+      "description": "Relaxed zip-front top and matching wide-leg trousers shown in olive with front and back photographs, alongside a brown coordinated styling presentation. Ask the team to identify your preferred pictured style and confirm current price, measurements, colours and availability. Styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-01.jpg",
+        "/images/collection-02.jpg",
+        "/images/collection-03.jpg"
+      ],
+      "source": "https://www.instagram.com/maria_fash/p/DfzSoG-CL4i/"
+    },
+    {
+      "id": "brown-hooded-set",
+      "name": "Brown Hooded Set",
+      "collection": "Coordinated looks",
+      "audience": "The edit",
+      "family": "",
+      "description": "A brown hooded zip-front top is shown with matching relaxed trousers in a public Reel cover. Confirm current availability, price, measurements and sizing with Maria Fashion. Styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-04.jpg"
+      ],
+      "source": "https://www.instagram.com/maria_fash/reel/DfxunmnI-NB/"
+    },
+    {
+      "id": "burgundy-knit-skirt-set",
+      "name": "Burgundy Knit Skirt Set",
+      "collection": "Knitwear",
+      "audience": "The edit",
+      "family": "",
+      "description": "A burgundy button-neck knit top with a matching long skirt, photographed together on hangers. Confirm current availability, price, measurements, sizes and the exact pictured pieces with Maria Fashion. Styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-05.jpg"
+      ],
+      "source": "https://www.instagram.com/maria_fash/p/Dfxtv6miOMi/"
+    },
+    {
+      "id": "contrast-longline-coat",
+      "name": "Contrast Longline Coat",
+      "collection": "Outerwear",
+      "audience": "The edit",
+      "family": "",
+      "description": "A black longline coat with a contrasting pale collar, front panel and pocket details. This reference comes from an older public post, so current availability needs confirmation. Confirm current availability, price, measurements, sizes and the exact pictured pieces with Maria Fashion. Styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-06.jpg"
+      ],
+      "source": "https://www.instagram.com/maria_fash/reel/C4ijB4dM5rM/"
+    },
+    {
+      "id": "tall-boots-edit",
+      "name": "Tall Boots Edit",
+      "collection": "Shoes & accessories",
+      "audience": "The edit",
+      "family": "",
+      "description": "Two tall black boot styles shown by the page: a chunky-soled pair and a buckle-detail riding-style pair. Choose your reference photograph when enquiring; the photographed bag is styling only unless the team confirms otherwise. Confirm current availability, price, measurements, sizes and the exact pictured pieces with Maria Fashion. Styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-07.jpg",
+        "/images/collection-08.jpg"
+      ],
+      "source": "https://www.instagram.com/bella_fash.lb/reel/Dfw7mLJAg5g/"
+    },
+    {
+      "id": "red-layering-mood",
+      "name": "Red Layering Mood",
+      "collection": "Styling inspiration",
+      "audience": "The edit",
+      "family": "",
+      "description": "A red jacket is shown in a coordinated styling board with a cream high-neck top, dark skirt and accessories. The image is styling inspiration rather than a promise that every pictured item is supplied as a set. Confirm current availability, price, measurements, sizes and the exact pictured pieces with Maria Fashion. Styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-09.jpg"
+      ],
+      "source": "https://www.instagram.com/bella_fash.lb/p/DfwjfZ8ABk2/"
+    },
+    {
+      "id": "burgundy-layered-coat",
+      "name": "Burgundy Layered Coat",
+      "collection": "Outerwear",
+      "audience": "The edit",
+      "family": "",
+      "description": "A burgundy textured outer layer over a dark outfit, shown in an outdoor styling photograph. Confirm current availability, price, measurements, sizes and the exact pictured pieces with Maria Fashion. Styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-10.jpg"
+      ],
+      "source": "https://www.instagram.com/bella_fash.lb/p/DfwhhyRgJVo/"
+    },
+    {
+      "id": "long-knit-dress-edit",
+      "name": "Long Knit Dress Edit",
+      "collection": "Knitwear",
+      "audience": "The edit",
+      "family": "",
+      "description": "Long-sleeved knit dresses shown on hangers in taupe and bright red. Ask the team about the pictured colour and fit. Confirm current availability, price, measurements, sizes and the exact pictured pieces with Maria Fashion. Styling accessories are not automatically included.",
+      "notes": [],
+      "price": null,
+      "sizes": [
+        "Confirm with boutique"
+      ],
+      "images": [
+        "/images/collection-11.jpg"
+      ],
+      "source": "https://www.instagram.com/bella_fash.lb/reel/DfwhT72gLwS/"
+    }
+  ],
+  "services": [],
+  "branches": []
+}

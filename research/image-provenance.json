@@ -1,0 +1,158 @@
+[
+  {
+    "file": "/images/collection-01.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov16-five-new\\maria-fashion\\assets\\maria-03.jpg",
+    "sha256": "13d922510219e272093bfc5ecc601837ff3f73ce5d268304cba794714e040113",
+    "originalDimensions": [
+      480,
+      640
+    ],
+    "webDimensions": [
+      480,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-02.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov16-five-new\\maria-fashion\\assets\\maria-carousel-02.jpg",
+    "sha256": "ef0d8b48ec11eb135e044f47f66eab471254e7fdaae729adce7510bd48396ebc",
+    "originalDimensions": [
+      960,
+      1279
+    ],
+    "webDimensions": [
+      960,
+      1279
+    ]
+  },
+  {
+    "file": "/images/collection-03.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov16-five-new\\maria-fashion\\assets\\maria-08.jpg",
+    "sha256": "33fd33b4ab9b1f7fd79baefd717a355386d3c733c307d71679c3a711acc78bf8",
+    "originalDimensions": [
+      521,
+      640
+    ],
+    "webDimensions": [
+      521,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-04.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov16-five-new\\maria-fashion\\assets\\maria-04.jpg",
+    "sha256": "ceca11c16881eeb54bd2b92a17fccef369ff0f0bfbf9034ed176d661bbde651c",
+    "originalDimensions": [
+      360,
+      640
+    ],
+    "webDimensions": [
+      360,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-05.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov16-five-new\\maria-fashion\\assets\\maria-05.jpg",
+    "sha256": "109496c9a643819070cd2f8b3ca5bf5e6ff0f1e8f79207728a90bddb74731966",
+    "originalDimensions": [
+      480,
+      640
+    ],
+    "webDimensions": [
+      480,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-06.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov16-five-new\\maria-fashion\\assets\\maria-02.jpg",
+    "sha256": "c7ff7360edb320fd06831c39634bd34bc86b4c767aa12371bbbc417e215a7fbd",
+    "originalDimensions": [
+      360,
+      640
+    ],
+    "webDimensions": [
+      360,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-07.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov16-five-new\\maria-fashion\\assets\\maria-06.jpg",
+    "sha256": "973a37c14c096e8c654489c8cadfe63a94f79b56d3e89dc9a9059170cc649070",
+    "originalDimensions": [
+      360,
+      640
+    ],
+    "webDimensions": [
+      360,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-08.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov16-five-new\\maria-fashion\\assets\\maria-07.jpg",
+    "sha256": "35a5347afb2d30390cb6b661c36cfcbe30a30eaaf925afc36f8e1177ae52d8c7",
+    "originalDimensions": [
+      516,
+      640
+    ],
+    "webDimensions": [
+      516,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-09.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov16-five-new\\maria-fashion\\assets\\maria-10.jpg",
+    "sha256": "3c16c207d6411268a8b02fbea7b3bccde2587a23afd3505a42ec216ba5efca04",
+    "originalDimensions": [
+      480,
+      640
+    ],
+    "webDimensions": [
+      480,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-10.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov16-five-new\\maria-fashion\\assets\\maria-11.jpg",
+    "sha256": "0335f46f4dafafef670dcfd96cdd9f62594453c27fe030102d75952f3356e330",
+    "originalDimensions": [
+      480,
+      640
+    ],
+    "webDimensions": [
+      480,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-11.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov16-five-new\\maria-fashion\\assets\\maria-12.jpg",
+    "sha256": "11fb880800ea22d7527032fe1f1ab2e9e87402865bb69c039cff761ee8b87a75",
+    "originalDimensions": [
+      360,
+      640
+    ],
+    "webDimensions": [
+      360,
+      640
+    ]
+  },
+  {
+    "file": "/images/collection-12.jpg",
+    "original": "C:\\Projects\\prospect-research\\nov16-five-new\\maria-fashion\\assets\\maria-carousel-01.jpg",
+    "sha256": "61e8a3f87eccd3b814c952f976f86fc145629ed26e00b895daae89f368a16c69",
+    "originalDimensions": [
+      831,
+      1107
+    ],
+    "webDimensions": [
+      831,
+      1107
+    ]
+  }
+]
